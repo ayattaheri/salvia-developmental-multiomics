@@ -1,6 +1,3 @@
-# salvia-developmental-multiomics
-Developmental multi-omics analysis of specialized metabolism in Salvia miltiorrhiza roots
-
 # Developmental multi-omics analysis of *Salvia miltiorrhiza* roots
 
 This repository contains the analysis code associated with the study **“Developmental multi-omics profiling of specialized metabolism in *Salvia miltiorrhiza* roots.”**
